@@ -1,3 +1,4 @@
+
 <!-- ==================== BANNER ==================== -->
 
 <div align="center">
@@ -141,11 +142,11 @@
 <div align="center">
 
 <a href="https://github.com/amayushmansharma">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amayushmansharma&show_icons=true&theme=github_dark&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=amayushmansharma&show_icons=true&theme=github_dark&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/amayushmansharma">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amayushmansharma&layout=compact&theme=github_dark&hide_border=true&title_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amayushmansharma&layout=compact&theme=github_dark&hide_border=true&title_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
 </a>
 
 <br/>
