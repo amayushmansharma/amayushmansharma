@@ -1,231 +1,283 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    AYUSHMAN SHARMA                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== BANNER ==================== -->
 
 <div align="center">
+  <a href="https://github.com/amayushmansharma">
+    <img src="https://drive.google.com/uc?export=view&id=1L98hfuKxUZXUuLXdCQ7M3KsQ0yPvGrXc" width="100%" alt="Profile Banner"/>
+  </a>
+</div>
 
-<img src="https://drive.google.com/uc?export=view&id=1L98hfuKxUZXUuLXdCQ7M3KsQ0yPvGrXc" width="100%" />
+<!-- ==================== INTRO ==================== -->
 
-<br/><br/>
+<div align="center">
+  <a href="https://github.com/amayushmansharma">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Initializing+developer+profile...;Welcome+to+my+GitHub;Exploring.+Building.+Improving." alt="Typing SVG"/>
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=750&height=55&lines=%3E+INITIALIZING+PROFILE...;%3E+ACCESS+GRANTED...;%3E+HEY%2C+I'M+AYUSHMAN+SHARMA;%3E+DEVELOPER+%7C+LEARNER+%7C+BUILDER;%3E+CODE.+CREATE.+REPEAT." />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amayushmansharma&label=PROFILE+VIEWS&color=1E90FF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Learning"/>
+  <img src="https://img.shields.io/badge/BASED_IN-INDIA-1E90FF?style=for-the-badge&labelColor=0D1117" alt="India"/>
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/BASED_IN-INDIA-39FF14?style=for-the-badge&labelColor=080808" />
-<img src="https://komarev.com/ghpvc/?username=amayushmansharma&style=for-the-badge&color=39FF14&label=PROFILE+VISITORS" />
+<!-- ==================== NAME ==================== -->
+
+<div align="center">
+
+```text
+ █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║████╗ ████║██╔══██╗████╗  ██║
+███████║ ╚████╔╝ ██║   ██║███████╗███████║██╔████╔██║███████║██╔██╗ ██║
+██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║   ██║   ╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+</div>
+
+<!-- ==================== ABOUT ==================== -->
+
+<h2 align="center">01 / ABOUT THE DEVELOPER</h2>
+
+<div align="center">
+
+```text
+┌──[ayushman@developer]─[~]
+└─$ cat about.txt
+
+  Name       : Ayushman Sharma
+  Role       : Developer
+  Location   : India
+
+  Interests  : Software Development
+               Web Technologies
+               Problem Solving
+
+  Mindset    : Learn continuously.
+               Build fearlessly.
+               Think creatively.
+               Keep improving.
+
+└─$ _
+```
 
 </div>
 
----
+<br/>
 
-<h2 align="center">⌜ ABOUT ME ⌟</h2>
+<!-- ==================== TECH STACK ==================== -->
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<h2 align="center">02 / TECH ARSENAL</h2>
 
-```bash
-┌──[ayushman@github]
+<div align="center">
+
+**Languages**
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" alt="C"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" alt="C++"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" alt="Java"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="45" alt="JavaScript"/>
+</a>
+
+<br/><br/>
+
+**Web Development**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" alt="Express"/>
+</a>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" alt="VS Code"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="45" alt="IntelliJ IDEA"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" alt="Docker"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+<h2 align="center">03 / GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<a href="https://github.com/amayushmansharma">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amayushmansharma&show_icons=true&theme=github_dark&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/amayushmansharma">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amayushmansharma&layout=compact&theme=github_dark&hide_border=true&title_color=1E90FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amayushmansharma">
+  <img width="70%" src="https://streak-stats.demolab.com?user=amayushmansharma&theme=github-dark-blue&hide_border=true&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&background=0D1117" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amayushmansharma">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amayushmansharma&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ==================== INTERACTIVE CORNER ==================== -->
+
+<h2 align="center">04 / INTERACTIVE CORNER</h2>
+
+<div align="center">
+
+<details>
+<summary><b>⌨️ Developer Console</b></summary>
+
+```text
+┌──[ayushman@terminal]
 └─$ whoami
 
 Ayushman Sharma
 
-┌──[ayushman@github]
-└─$ cat about.txt
+└─$ current_status
 
-Developer from India.
+Learning new things and building projects.
 
-Interested in software development,
-web technologies and problem solving.
-
-I enjoy exploring new technologies,
-experimenting with ideas and building
-things that actually work.
-
-┌──[ayushman@github]
-└─$ cat mindset.txt
-
-Learn continuously.
-Build fearlessly.
-Think creatively.
-Keep improving.
+└─$ _
 ```
 
-</td>
-<td width="40%" align="center" valign="middle">
+</details>
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="100%" />
+<details>
+<summary><b>🧠 JavaScript Quiz</b></summary>
 
-<br/>
+What does this JavaScript code output?
 
-**CURRENT MODE**
+```javascript
+console.log([] + []);
+```
 
-`LEARNING`
+<details>
+<summary>Reveal Answer</summary>
 
-`BUILDING`
+```text
+""
+```
 
-`EXPLORING`
+An empty array converts to an empty string. Adding two empty strings results in an empty string.
 
-</td>
-</tr>
-</table>
+</details>
+</details>
 
----
+<details>
+<summary><b>⚡ My Mindset</b></summary>
 
-<h2 align="center">⌜ WHAT I DO ⌟</h2>
+- Stay curious.
+- Keep experimenting.
+- Learn by building.
+- Embrace challenges.
+- Improve a little every day.
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h3>⌘ Programming</h3>
-
-Exploring programming languages and developing problem-solving skills.
-
-</td>
-<td width="50%" align="center">
-
-<h3>⌘ Web Development</h3>
-
-Working with frontend and backend technologies to build web experiences.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h3>⌘ Experimenting</h3>
-
-Exploring tools, frameworks and new ways to build things.
-
-</td>
-<td width="50%" align="center">
-
-<h3>⌘ Continuous Learning</h3>
-
-Learning through experimentation, practice and development.
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">⌜ TECH ARSENAL ⌟</h2>
-
-<h3 align="center">01 / PROGRAMMING LANGUAGES</h3>
-
-<p align="center">
-<a href="https://en.cppreference.com/w/c" title="C">
-<img src="https://skillicons.dev/icons?i=c" width="55" />
-</a>
-<a href="https://en.cppreference.com/w/cpp" title="C++">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" />
-</a>
-<a href="https://www.java.com/" title="Java">
-<img src="https://skillicons.dev/icons?i=java" width="55" />
-</a>
-<a href="https://www.python.org/" title="Python">
-<img src="https://skillicons.dev/icons?i=python" width="55" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55" />
-</a>
-</p>
-
-<h3 align="center">02 / WEB DEVELOPMENT</h3>
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-<img src="https://skillicons.dev/icons?i=html" width="55" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-<img src="https://skillicons.dev/icons?i=css" width="55" />
-</a>
-<a href="https://react.dev/" title="React">
-<img src="https://skillicons.dev/icons?i=react" width="55" />
-</a>
-<a href="https://nodejs.org/" title="Node.js">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
-</a>
-<a href="https://expressjs.com/" title="Express.js">
-<img src="https://skillicons.dev/icons?i=express" width="55" />
-</a>
-</p>
-
-<h3 align="center">03 / TOOLS & ENVIRONMENT</h3>
-
-<p align="center">
-<a href="https://git-scm.com/" title="Git">
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-</a>
-<a href="https://github.com/amayushmansharma" title="GitHub">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" />
-</a>
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA">
-<img src="https://skillicons.dev/icons?i=idea" width="55" />
-</a>
-<a href="https://www.docker.com/" title="Docker">
-<img src="https://skillicons.dev/icons?i=docker" width="55" />
-</a>
-</p>
-
----
-
-<h2 align="center">⌜ GITHUB ANALYTICS ⌟</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amayushmansharma&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=080808&title_color=39FF14&icon_color=39FF14&text_color=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amayushmansharma&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=080808&title_color=39FF14&text_color=ffffff" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=amayushmansharma&theme=dark&hide_border=true&background=080808&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amayushmansharma&bg_color=080808&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
+</details>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">⌜ CONNECT WITH ME ⌟</h2>
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+
+<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-```bash
+<a href="https://github.com/amayushmansharma">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">06 / ESTABLISH CONNECTION</h2>
+
+<div align="center">
+
+```text
 ┌──[ayushman@github]
-└─$ connect --with ayushman
+└─$ connect
 
 [+] GitHub .............. ONLINE
+[+] LinkedIn ............ CONNECTED
+[+] Learning ............ ACTIVE
 [+] Collaboration ....... WELCOME
-[+] Knowledge Sharing ... ENABLED
 
 [!] Always open to learning and connecting.
 ```
 
 <a href="https://github.com/amayushmansharma">
-<img src="https://img.shields.io/badge/GITHUB-AYUSHMANSHARMA-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=080808" />
+  <img src="https://img.shields.io/badge/GITHUB-VISIT_PROFILE-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayushman/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- ==================== FOOTER ==================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=40&lines=END+OF+TRANSMISSION...;UNTIL+THE+NEXT+COMMIT." />
+<a href="https://github.com/amayushmansharma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=STAY+CURIOUS.+KEEP+BUILDING+THINGS." alt="Stay Curious. Keep Building Things."/>
+</a>
 
-<br/>
+<br/><br/>
 
-<sub>Designed with curiosity. Powered by code.</sub>
+<sub>Designed with curiosity • Built with consistency</sub>
 
 </div>
